@@ -1,2 +1,0 @@
-# IndCricketTeam
-Created with CodeSandbox
